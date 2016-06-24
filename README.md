@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/fchollet/keras.svg?branch=master)](https://travis-ci.org/fchollet/keras)
 [![PyPI version](https://badge.fury.io/py/keras.svg)](https://badge.fury.io/py/keras)
 
+## (vg) test for CI
 ## You have just found Keras.
 
 Keras is a minimalist, highly modular neural networks library, written in Python and capable of running on top of either [TensorFlow](https://github.com/tensorflow/tensorflow) or [Theano](https://github.com/Theano/Theano). It was developed with a focus on enabling fast experimentation. Being able to go from idea to result with the least possible delay is key to doing good research.
